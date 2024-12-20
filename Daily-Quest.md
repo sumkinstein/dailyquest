@@ -11,4 +11,5 @@ Day 7 of failing useless commits every other day 💀
 Day 9 of creating useless commits every other day 💀  
 ~~Day 10 of creating useless commits every other day ✔️~~  
 ~~Day 11 of creating useless commits every other day ✔️~~  
-Day 12 of creating useless commits every other day ✔️
+~~Day 12 of creating useless commits every other day ✔️~~  
+Day 13 of creating useless commits every other day ✔️

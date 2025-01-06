@@ -1,4 +1,4 @@
-# Daily Quest (19/28)
+# Daily Quest (20/30)
 
 ~~Day 1 of creating useless commits every other day ✔️~~  
 ~~Day 2 of creating useless commits every other day ✔️~~  
@@ -27,4 +27,6 @@ Day 23 of creating useless commits every other day 💀
 Day 25 of creating useless commits every other day 💀  
 ~~Day 26 of creating useless commits every other day ✔️~~  
 ~~Day 27 of creating useless commits every other day ✔️~~  
-Day 28 of creating useless commits every other day ✔️
+~~Day 28 of creating useless commits every other day ✔️~~  
+Day 29 of creating useless commits every other day 💀  
+Day 30 of creating useless commits every other day ✔️
